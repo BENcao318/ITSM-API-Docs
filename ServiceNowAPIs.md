@@ -1,4 +1,4 @@
-### ServiceNow Api
+### ServiceNow API
 1. Get Incident Table
    - Example cURL:
    ```

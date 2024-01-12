@@ -1,4 +1,4 @@
-### ServiceNow Api
+### Datadog API
 1. Get a list of Audit Logs events
    - Example cURL:
    ```

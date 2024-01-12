@@ -1,4 +1,4 @@
-### ServiceNow Api
+### Splunk API
 1. Get List of Applications Installed On The Server
    - Example cURL:
    ```
