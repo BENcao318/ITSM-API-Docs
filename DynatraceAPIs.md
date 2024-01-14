@@ -738,6 +738,7 @@
         ]
     }
     ```
+
 13. GET all groups
     - Example cURL:
     ```
@@ -815,3 +816,4 @@
         ]
     }
     ```
+
